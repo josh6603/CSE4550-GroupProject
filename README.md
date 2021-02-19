@@ -26,5 +26,7 @@ Run application:
 
     Open browser and goto: 
         http://127.0.0.1:5000/
+                or
+        localhost:5000
 
     Or if used 0.0.0.0:5000 go to that one should see "Hello World"
